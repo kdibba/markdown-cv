@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Khadijatou Dibba's CV
 ---
-# Isaac Newton
+# Khadijatou Dibba
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
@@ -11,9 +11,9 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+Software Engineer
 
 ### Specialized in
 
@@ -27,7 +27,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
+`2022-2025`
 __The King's School, Grantham.__
 
 `June 1661 - now`
