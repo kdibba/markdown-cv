@@ -3,17 +3,54 @@ layout: cv
 title: Khadijatou Dibba's CV
 ---
 # Khadijatou Dibba
-Physicist, Mathematician, Cambridge professor.
+Software Engineer, Researcher, Technologist for Social good
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:kd2732@nyu.edu">kd2732@nyu.edu</a>
+<a href="https://github.com/kdibba">My Github</a>
+<a href="https://www.linkedin.com/in/khadijadibba/">My Linkedln</a>
 </div>
+
+
+## Education
+
+`Jan 2022 - Jan 2025`
+__New York University, Tandon School of Engineering__
+
+- Bachelor of Science in Computer Engineering
+
+`Sep 2023 - Dec 2023`
+__New York University, Tandon School of Engineering__
+
+- Data Science Bootcamp
+
+
+`Sep 2025 - Now`
+__Massachusetts Institute of Technology, Abdul Latif Jameel Poverty Action Lab (J-PAL)__
+
+- MicroMaster in Data, Economics, and Design of Policy
+
 
 
 ## Experience
 
-Software Engineer
+`Jun 2025 - Now`
+__Freelance Sofware Developer__
+- Self-employed
+
+Developed a custom RAG-based AI solution for a commercial real estate company. 
+
+The project accomplished a 10x increase in agent efficiency as measured by a reduction in manual data entry and lead response time.
+
+The AI agent was trained on a portfolio of 110+ property deal sheets that automates client matching, email drafting, and calendar scheduling.
+
+
+
+`Sep 2024 - Dec 2024`
+__Software Engineer Intern__
+- Starcycle Inc.
+
+Developed a compliance microservice for a B2B SaaS Start-up.
 
 ### Specialized in
 
@@ -25,20 +62,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
 
-`2022-2025`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
